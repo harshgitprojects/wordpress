@@ -1,0 +1,62 @@
+body{
+        display: flex;
+        justify-content: space-evenly;
+        align-content: space-around;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+        background:#b6df956a
+        ;
+    }
+    
+
+h1{
+    width: 214px;    height:96px;
+    font-family:Poppins;
+    white:700 ;
+    size: 64px;
+    line-height: 96px;
+    align-items: center;
+    color: rgb(105, 206, 4);
+    padding: 0;
+}
+.countain {
+    width: 660px;
+    height: 612px;
+    background: white;
+    border-radius: 15px; 
+}
+h2{
+    margin: 21px 7px 4px 20px;
+    width: 125px;
+    height: 30px;
+}
+p {
+    margin: 18px 0 0 22px;
+    color:#858585 ;
+}
+.progres {
+    border-radius: 16px;
+    height: 32px;
+    background: #e0f1d2;
+    width: 527px;
+    margin: 8px 0 0 20px;
+}
+.pro {
+    border-radius: 16px;
+    height: 32px;
+    background: #6fdd14;
+    width: 173px;
+    margin: 7px 0 0 0;
+}
+.input-gols {
+    width: 547px;
+    border-radius: 24px;
+    line-height: 78px;
+    height: 47px;
+    border: 1px solid;
+    margin: 42px 0 0 47px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
